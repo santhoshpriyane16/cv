@@ -1,0 +1,132 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Hind Vadodara', sans-serif;
+  font-size: 150%;
+}
+
+h1 {
+  width: auto;
+  margin: 0 auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 4rem;
+  color: #00ffff;
+}
+
+h2 {
+  margin: auto;
+  text-align: center;
+  font-family: 'Hind Vadodara', sans-serif;
+  font-size: 100%;
+  color: #76ead7;
+  font-weight: normal;
+}
+
+h3 {
+  color: #76ead7;
+}
+p{
+  line-height: 2;
+}
+.top-container {
+  background-color: #000000;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #000000;
+  margin: 100px 0;
+}
+.propic{
+  width: 25%;
+  margin: auto;
+}
+.bottom-container
+{
+  background-color: #000000;
+  padding:50px 0 20px;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.Dev {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.webimage {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cyberexpert {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.connectme{
+  margin: 40px auto 60px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  width: 40px;
+  border-color:#00ffff;
+  margin:100px auto;
+
+}
+a {
+  color: #11999E;
+  font-family: 'Hind Vadodara'sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+
+.btn {
+	background-color:#6ec6e6;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#58f0f0;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+}
